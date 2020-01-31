@@ -1,2 +1,0 @@
-assignment2
--DCATKIN_DEVEL_PREFIX=/home/abhishek/autonomy/AuE893Spring20_AbhishekBhagwat/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/abhishek/autonomy/AuE893Spring20_AbhishekBhagwat/catkin_ws/install -G Unix Makefiles
